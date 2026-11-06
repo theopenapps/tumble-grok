@@ -1,0 +1,20 @@
+{
+  "name": "tumble",
+  "displayName": "Active Games for PE & Home by Tumble",
+  "version": "1.0.0",
+  "description": "Active games for PE, recess and home, for the parents, teachers and coaches who run them with children: find a game that fits the players, ages, space and gear at hand, get its rules, plan a timed PE or party session, or adapt a game you know. Every game carries its safety lines.",
+  "author": {
+    "name": "The Open Apps, Inc.",
+    "email": "support@theopenapps.com",
+    "url": "https://tumble.ambientapp.ai"
+  },
+  "homepage": "https://tumble.ambientapp.ai",
+  "repository": "https://github.com/theopenapps/tumble-grok",
+  "license": "MIT",
+  "keywords": ["tumble", "pe games", "gym games", "active games", "kids games", "games for kids", "recess games", "indoor games", "party games", "tag games", "playground games", "rainy day games", "family games", "physical education", "kids activities", "physical activities"],
+  "icon": ".claude-plugin/icon.png",
+  "documentationUrl": "https://tumble.ambientapp.ai/docs",
+  "supportUrl": "https://tumble.ambientapp.ai/support",
+  "privacyPolicyUrl": "https://tumble.ambientapp.ai/privacy",
+  "termsOfServiceUrl": "https://tumble.ambientapp.ai/terms"
+}

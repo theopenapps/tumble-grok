@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "tumble": {
+      "type": "http",
+      "url": "https://tumble.ambientapp.ai/mcp/claude"
+    }
+  }
+}

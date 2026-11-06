@@ -1,0 +1,15 @@
+{
+  "name": "tumble",
+  "displayName": "Active Games for PE & Home by Tumble",
+  "version": "1.0.0",
+  "description": "Active games for PE, recess and home, for the adults who run them with children: find a game that fits the players, ages, space and gear at hand, get its rules step by step, plan a timed PE or party session, or adapt a game you know. 42 game cards, each with safety lines. No account, and no tool asks for a name or any personal detail.",
+  "author": {
+    "name": "The Open Apps, Inc.",
+    "email": "support@theopenapps.com"
+  },
+  "homepage": "https://tumble.ambientapp.ai/docs",
+  "repository": "https://github.com/theopenapps/tumble-grok",
+  "license": "MIT",
+  "keywords": ["tumble", "pe games", "gym games", "active games", "kids games", "games for kids", "recess games", "indoor games", "party games", "tag games", "playground games", "family games", "physical education", "kids activities", "physical activities"],
+  "logo": "assets/logo.svg"
+}

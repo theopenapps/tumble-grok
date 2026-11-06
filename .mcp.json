@@ -1,0 +1,7 @@
+{
+  "mcpServers": {
+    "tumble": {
+      "url": "https://tumble.ambientapp.ai/mcp/grok"
+    }
+  }
+}
